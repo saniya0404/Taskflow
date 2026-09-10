@@ -1,4 +1,3 @@
-".venv/",
-"__pycache__/",
-"*.pyc",
-".pytest_cache/"
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/*.tfstate.backup
